@@ -185,7 +185,7 @@ body {
     height:16px;
     margin-right:5px;
     display:inline-block;
-    background:url("http://jplpinto.localhost/__system/phpframework/__system/cache/workflow/tasks/default/dbdiagram/common/img/add_icon.gif");
+    background:url("../img/add_icon.gif");
     cursor:pointer;
 }
 .taskflowchartdiagram .task.task_table .eps{
